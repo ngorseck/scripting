@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Definitaion dune fonction somme
+#Definition d'une fonction somme
 sum=$(($1 + $2))
 
 #Appel de la fonction

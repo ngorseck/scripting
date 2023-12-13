@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Afficahge de la valeur d'une variable
+#Affichage de la valeur d'une variable
 
 nom="Ngor SECK"
 

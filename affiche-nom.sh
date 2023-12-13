@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Installation de apache
+#Afficahge de la valeur d'une variable
 
 nom="Ngor SECK"
 
